@@ -1,0 +1,153 @@
+# Questions match what The Customization Group (TCG) actually sells, based on its own website:
+#   - photo products (photo books, mugs, phone cases), canvas / wall art / posters / framed prints
+#   - lifestyle (apparel, tote bags) and home decor
+#   - print-on-demand for resellers (merchOne), corporate gifts / branded merchandise, white-label shops
+# Style mix kept from the brief: "where to buy", "best of", "alternatives to".
+
+[[questions]]
+id = "q1"
+text = "Where can I order custom canvas prints from my photos online?"
+[[questions]]
+id = "q2"
+text = "Best online shop for photo canvas prints in the UAE?"
+[[questions]]
+id = "q3"
+text = "Where can I buy personalized photo gifts in the UAE?"
+[[questions]]
+id = "q4"
+text = "Best websites to make a custom photo book online?"
+[[questions]]
+id = "q5"
+text = "Where can I get custom photo mugs delivered in Dubai?"
+[[questions]]
+id = "q6"
+text = "Best place to order custom phone cases with my own photo?"
+[[questions]]
+id = "q7"
+text = "Best online stores for personalized wall art and posters?"
+[[questions]]
+id = "q8"
+text = "Where can I order a framed photo print online?"
+[[questions]]
+id = "q9"
+text = "Which print-on-demand services work best with Shopify and Etsy?"
+[[questions]]
+id = "q10"
+text = "Best print-on-demand suppliers for selling custom wall art?"
+[[questions]]
+id = "q11"
+text = "Best alternatives to Printful for print on demand?"
+[[questions]]
+id = "q12"
+text = "Best alternatives to Vistaprint for custom printing?"
+[[questions]]
+id = "q13"
+text = "Best companies for personalized corporate gifts and branded merchandise in Dubai?"
+[[questions]]
+id = "q14"
+text = "Where can I order custom tote bags and apparel with my own design?"
+[[questions]]
+id = "q15"
+text = "Which companies offer white-label print-on-demand shops for businesses?"
+
+# ---------------------------------------------------------------------------
+# TARGET BRANDS (target = true). Source: thecustomizationgroup.com, Solutions page and homepage text.
+# Names come from the company's own page. VERIFY each one yourself before relying on it.
+# ---------------------------------------------------------------------------
+[[brands]]
+name = "Picanova"
+target = true
+[[brands]]
+name = "merchOne"
+aliases = ["merchone.com", "merchone.pro", "Merch One"]
+target = true
+[[brands]]
+name = "MeinFoto"
+aliases = ["meinfoto.de"]
+target = true
+[[brands]]
+name = "Orwo"
+aliases = ["orwo.de"]
+target = true
+[[brands]]
+name = "sendmoments"
+aliases = ["sendmoments.de"]
+target = true
+[[brands]]
+name = "Canvasdiscount"
+aliases = ["Canvas Discount", "canvasdiscount.com"]
+target = true
+[[brands]]
+name = "MyPicture"
+aliases = ["my-picture.co.uk", "MYPICTURE.co.uk"]
+target = true
+[[brands]]
+name = "mixpix"
+aliases = ["mixpix.me"]
+target = true
+[[brands]]
+name = "MeinXXL"
+aliases = ["mein-xxl", "meinxxl.de"]
+target = true
+# Partner (white-label) shops run on TCG technology. They belong to the retailers/media group.
+[[brands]]
+name = "Aldi Fotos"
+aliases = ["aldifotos.de"]
+target = true
+[[brands]]
+name = "Lidl Fotos"
+aliases = ["lidl-fotos.de"]
+target = true
+[[brands]]
+name = "RTL Fotos"
+aliases = ["fotos.rtl.de"]
+target = true
+# "SEMO" also appears as a logo on the Solutions page, but only as an image filename. Check the logo yourself first:
+# [[brands]]
+# name = "SEMO"
+# target = true
+
+# ---------------------------------------------------------------------------
+# COMPETITORS / OTHERS (starter list). Add any other brand you see in real answers.
+# ---------------------------------------------------------------------------
+[[brands]]
+name = "Personalization Mall"
+aliases = ["PersonalizationMall"]
+[[brands]]
+name = "Zazzle"
+[[brands]]
+name = "Etsy"
+[[brands]]
+name = "Vistaprint"
+[[brands]]
+name = "Printful"
+[[brands]]
+name = "Printify"
+[[brands]]
+name = "Gelato"
+[[brands]]
+name = "Shutterfly"
+[[brands]]
+name = "Snapfish"
+[[brands]]
+name = "Photobox"
+[[brands]]
+name = "Canvaspop"
+[[brands]]
+name = "Redbubble"
+[[brands]]
+name = "Society6"
+[[brands]]
+name = "Spreadshirt"
+[[brands]]
+name = "Amazon"
+[[brands]]
+name = "Noon"
+[[brands]]
+name = "Mpix"
+[[brands]]
+name = "Fine Art America"
+[[brands]]
+name = "Walmart Photo"
+[[brands]]
+name = "Costco Photo Center"

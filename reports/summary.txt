@@ -1,0 +1,147 @@
+===== GEMINI =====
+Model(s): gemini-2.5-flash
+Answers used: 30
+Data dates: 2026-10-12 to 2026-10-13 (UTC)
+Runs per question used: 1-3
+
+TOP BRANDS (answers naming the brand / all answers; mixes all questions, NOT market share)
+  Amazon                12 of 30  (40.0%)
+  Snapfish              12 of 30  (40.0%)
+  Etsy                  12 of 30  (40.0%)
+  Shutterfly            11 of 30  (36.7%)
+  Printify               9 of 30  (30.0%)
+  Printful               9 of 30  (30.0%)
+  Gelato                 8 of 30  (26.7%)
+  Mpix                   6 of 30  (20.0%)
+  Vistaprint             6 of 30  (20.0%)
+  Zazzle                 6 of 30  (20.0%)
+  Redbubble              6 of 30  (20.0%)
+  Spreadshirt            6 of 30  (20.0%)
+
+TARGET BRANDS (names from TCG's website)
+  Answers naming ANY target brand: 0 of 30
+
+TOP DOMAINS (as stated by the model, unverified)
+  printonline.ae               4 of 30
+  printsouq.com                4 of 30
+  joigifts.com                 4 of 30
+  noon.com                     3 of 30
+  amazon.ae                    3 of 30
+  fnp.ae                       3 of 30
+  printcious.ae                2 of 30
+  vistaprint.ae                2 of 30
+  photobook.ae                 2 of 30
+  signs.com                    2 of 30
+
+STABILITY (first-named brand per question; 'distinct' = how many different first brands)
+  q1   Shutterfly         first in 2/3  distinct=2
+  q2   (none)             first in 2/3  distinct=2
+  q3   Snapfish           first in 1/3  distinct=3
+  q4   Shutterfly         first in 2/2  distinct=1
+  q5   Vistaprint         first in 1/2  distinct=2
+  q6   Shutterfly         first in 2/2  distinct=1
+  q7   Shutterfly         first in 2/2  distinct=1
+  q8   Shutterfly         first in 2/2  distinct=1
+  q9   Etsy               first in 2/2  distinct=1
+  q10  Printful           first in 1/2  distinct=2
+  q11  Printful           first in 2/2  distinct=1
+  q12  Vistaprint         first in 2/2  distinct=1
+  q13  (none)             first in 1/1  distinct=1
+  q14  Vistaprint         first in 1/1  distinct=1
+  q15  Etsy               first in 1/1  distinct=1
+
+UNLISTED NAMES in bold, seen in 2+ answers (some are headings, not brands; check by hand)
+  best for                       12 answers
+  cons                           12 answers
+  pros                           12 answers
+  customer service               10 answers
+  reviews                        9 answers
+  strengths                      7 answers
+  ease of use                    6 answers
+  print quality                  6 answers
+  quality                        6 answers
+  gooten                         6 answers
+  prodigi                        6 answers
+  pricing & profit margins       6 answers
+  nations photo lab              5 answers
+  website                        5 answers
+  customcat                      5 answers
+
+CUT-OFFS
+  finish_reason counts: {'stop': 29, 'length': 1}
+  confirmed cut off (length): 1
+  suspected cut off among 'unknown' rows (answer does not end like a finished text): 0
+
+===== GROQ =====
+Model(s): openai/gpt-oss-120b
+Answers used: 90
+Data dates: 2026-10-11 to 2026-10-13 (UTC)
+Runs per question used: 1-3
+
+TOP BRANDS (answers naming the brand / all answers; mixes all questions, NOT market share)
+  Etsy                  60 of 90  (66.7%)
+  Printful              58 of 90  (64.4%)
+  Shutterfly            42 of 90  (46.7%)
+  Snapfish              39 of 90  (43.3%)
+  Printify              37 of 90  (41.1%)
+  Amazon                36 of 90  (40.0%)
+  Zazzle                35 of 90  (38.9%)
+  Redbubble             34 of 90  (37.8%)
+  Society6              27 of 90  (30.0%)
+  Vistaprint            25 of 90  (27.8%)
+  Canvaspop             24 of 90  (26.7%)
+  Fine Art America      19 of 90  (21.1%)
+
+TARGET BRANDS (names from TCG's website)
+  Answers naming ANY target brand: 0 of 90
+
+TOP DOMAINS (as stated by the model, unverified)
+  amazon.ae                    15 of 90
+  printarabia.com              9 of 90
+  shutterfly.com               9 of 90
+  printful.com                 9 of 90
+  snapfish.com                 8 of 90
+  zazzle.com                   8 of 90
+  printcafe.ae                 7 of 90
+  snapfish.ae                  6 of 90
+  noon.com                     6 of 90
+  souq.com                     6 of 90
+
+STABILITY (first-named brand per question; 'distinct' = how many different first brands)
+  q1   Shutterfly         first in 5/6  distinct=2
+  q2   Canvaspop          first in 5/6  distinct=2
+  q3   Amazon             first in 2/6  distinct=4
+  q4   Shutterfly         first in 5/6  distinct=2
+  q5   Amazon             first in 3/6  distinct=4
+  q6   Zazzle             first in 6/6  distinct=1
+  q7   Etsy               first in 2/6  distinct=4
+  q8   Shutterfly         first in 6/6  distinct=1
+  q9   Etsy               first in 6/6  distinct=1
+  q10  Printful           first in 6/6  distinct=1
+  q11  Printful           first in 4/6  distinct=2
+  q12  Vistaprint         first in 5/6  distinct=2
+  q13  (none)             first in 2/6  distinct=3
+  q14  Printful           first in 6/6  distinct=1
+  q15  Printful           first in 5/6  distinct=2
+
+UNLISTED NAMES in bold, seen in 2+ answers (some are headings, not brands; check by hand)
+  gooten                         27 answers
+  tip                            22 answers
+  artifact uprising              19 answers
+  |                              19 answers
+  teelaunch                      18 answers
+  cons                           17 answers
+  shipping                       17 answers
+  best for                       17 answers
+  pros                           16 answers
+  300 dpi                        15 answers
+  shopify                        13 answers
+  scalable press                 13 answers
+  sustainability                 13 answers
+  apliiq                         13 answers
+  srgb                           12 answers
+
+CUT-OFFS
+  finish_reason counts: {'stop': 41, 'unknown': 38, 'length': 11}
+  confirmed cut off (length): 11
+  suspected cut off among 'unknown' rows (answer does not end like a finished text): 15

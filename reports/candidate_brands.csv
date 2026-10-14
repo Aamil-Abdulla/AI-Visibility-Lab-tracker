@@ -1,0 +1,186 @@
+provider,kind,candidate,answers
+gemini,name,Gooten,10
+gemini,name,CustomCat,8
+gemini,name,Prodigi,8
+gemini,name,Customer Service,5
+gemini,name,SPOD,5
+gemini,name,Photobook Worldwide,4
+gemini,name,Pricing & Profit Margins,4
+gemini,name,PrintSouq,3
+gemini,name,Mixbook,3
+gemini,name,Blurb,3
+gemini,name,Artifact Uprising,3
+gemini,name,Joi Gifts,3
+gemini,name,Reviews,2
+gemini,name,Nations Photo Lab,2
+gemini,name,CanvasJet,2
+gemini,name,Photo Resolution,2
+gemini,name,Read Reviews,2
+gemini,name,Printcious,2
+gemini,name,Local Printing Shops,2
+gemini,name,CanvasChamp UAE,2
+gemini,name,Case-Mate,2
+gemini,name,Casetify,2
+gemini,name,Product Quality,2
+gemini,name,Mockup Quality,2
+gemini,name,Product Range,2
+gemini,name,Shipping Costs & Speed,2
+gemini,name,Branding Options,2
+gemini,name,GotPrint,2
+gemini,name,Jukebox Print,2
+gemini,name,RushOrderTees,2
+gemini,name,Custom Ink,2
+gemini,name,Your Local Print Shop,2
+gemini,name,PrintRunner,2
+gemini,name,Design Your Store,2
+gemini,name,Choose an E-commerce Platform,2
+gemini,name,Integrate,2
+gemini,name,Awkward Styles,2
+gemini,name,Create Products,2
+gemini,name,Ease of Use,2
+gemini,name,Product Catalog,2
+gemini,name,Print Quality,2
+gemini,name,Integrations,2
+gemini,name,Apliiq,2
+gemini,domain,printonline.ae,4
+gemini,domain,printsouq.com,4
+gemini,domain,joigifts.com,4
+gemini,domain,fnp.ae,3
+gemini,domain,printcious.ae,2
+gemini,domain,photobook.ae,2
+gemini,domain,signs.com,2
+groq,name,Artifact Uprising,9
+groq,name,Preview,8
+groq,name,Checkout,8
+groq,name,Upload,7
+groq,name,Upload your photo,7
+groq,name,Track,6
+groq,name,Resolution Matters,6
+groq,name,Add to cart,6
+groq,name,Create an account,6
+groq,name,Resolution,5
+groq,name,Place the order,5
+groq,name,Proofing,4
+groq,name,Shipping & Returns,4
+groq,name,Pay,4
+groq,name,Resolution matters,4
+groq,name,Select,4
+groq,name,Order Samples,4
+groq,name,Read recent reviews,3
+groq,name,Color profile,3
+groq,name,Color Profiles,3
+groq,name,Proof Before Printing,3
+groq,name,Proof Before You Print,3
+groq,name,Edit,3
+groq,name,Blurb,3
+groq,name,Mixbook,3
+groq,name,Chatbooks,3
+groq,name,Confirmation,3
+groq,name,Visit,3
+groq,name,Look for Promo Codes,3
+groq,name,Consider Framing Early,3
+groq,name,Order a sample,3
+groq,name,Nations Photo Lab,3
+groq,name,File Format,3
+groq,name,International Shipping,3
+groq,name,Monitor & Optimize,3
+groq,name,Place the Order,2
+groq,name,Quick “Starter” Recommendations,2
+groq,name,Enter Shipping Info,2
+groq,name,Resolution & File Requirements,2
+groq,name,Add to Cart,2
+groq,name,Watch for Seasonal Sales,2
+groq,name,Mind the Aspect Ratio,2
+groq,name,Check the preview,2
+groq,name,Afternoon,2
+groq,name,Pick your product,2
+groq,name,Evening,2
+groq,name,Morning,2
+groq,name,Mid‑day,2
+groq,name,Upload your high‑resolution photo,2
+groq,name,Select a vendor,2
+groq,name,Material Choice,2
+groq,name,Bleed & Margins,2
+groq,name,Take Advantage of Discounts,2
+groq,name,Bleed & margins,2
+groq,name,Enter delivery details,2
+groq,name,Adjust,2
+groq,name,Casetify,2
+groq,name,Choose material,2
+groq,name,Go to,2
+groq,name,Check Image Resolution,2
+groq,name,Read the return policy,2
+groq,name,Pick a store,2
+groq,name,Framing Options,2
+groq,name,Connect your store,2
+groq,name,Price Strategically,2
+groq,name,Bleed & Safe Zone,2
+groq,name,Color Consistency,2
+groq,name,Iterate,2
+groq,name,Receive & inspect,2
+groq,name,GotPrint,2
+groq,name,UPrinting,2
+groq,name,Moo,2
+groq,name,Sticker Mule,2
+groq,name,Delivery,2
+groq,name,Post‑Delivery Review,2
+groq,name,Brief & Ideation,2
+groq,name,Track production,2
+groq,name,Place Order & Track,2
+groq,name,Define Your Goal,2
+groq,name,Receive & Inspect,2
+groq,name,Set Up Your Store,2
+groq,name,Scale Up,2
+groq,name,Finalize Your Artwork,2
+groq,name,Choose a Platform,2
+groq,name,Order a Sample,2
+groq,name,Pricing & Margins,2
+groq,name,Define Your Brand Assets,2
+groq,name,Sync Products,2
+groq,name,Configure White‑Label Settings,2
+groq,name,Payment,2
+groq,name,Printique,2
+groq,name,Review proof,2
+groq,name,Gather your photo,2
+groq,name,PosterMyWall,2
+groq,name,Minted,2
+groq,name,Apply any promo code,2
+groq,name,Configure Shipping Profiles,2
+groq,name,Test order,2
+groq,name,Sync products,2
+groq,name,Leverage Bulk Discounts,2
+groq,name,Select finish,2
+groq,name,Request samples,2
+groq,domain,printarabia.com,9
+groq,domain,printcafe.ae,7
+groq,domain,souq.com,6
+groq,domain,artifactuprising.com,5
+groq,domain,carrefouruae.com,3
+groq,domain,chatbooks.com,3
+groq,domain,blurb.com,3
+groq,domain,printique.com,3
+groq,domain,mixbook.com,3
+groq,domain,printo.ae,3
+groq,domain,pixels.com,3
+groq,domain,mosaicgifts.com,3
+groq,domain,customink.com,3
+groq,domain,costcophotocenter.com,3
+groq,domain,photos.walmart.com,3
+groq,domain,thephotostudio.ae,2
+groq,domain,photobookuae.com,2
+groq,domain,canvasco.ae,2
+groq,domain,picaboo.com,2
+groq,domain,casetify.com,2
+groq,domain,art.com,2
+groq,domain,apliiq.com,2
+groq,domain,spod.com,2
+groq,domain,teelaunch.com,2
+groq,domain,gooten.com,2
+groq,domain,scalablepress.com,2
+groq,domain,thesoukgifts.com,2
+groq,domain,alifgifts.ae,2
+groq,domain,thegifthouse.ae,2
+groq,domain,mosaicstudio.ae,2
+groq,domain,mugme.ae,2
+groq,domain,signs.com,2
+groq,domain,paperandink.ae,2

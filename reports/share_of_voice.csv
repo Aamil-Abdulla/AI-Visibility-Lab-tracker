@@ -1,0 +1,37 @@
+provider,brand,mentions,all_mentions,share_of_voice
+gemini,Etsy,20,182,0.11
+gemini,Snapfish,16,182,0.088
+gemini,Shutterfly,16,182,0.088
+gemini,Printify,16,182,0.088
+gemini,Printful,16,182,0.088
+gemini,Amazon,15,182,0.082
+gemini,Gelato,14,182,0.077
+gemini,Zazzle,11,182,0.06
+gemini,Spreadshirt,10,182,0.055
+gemini,Vistaprint,9,182,0.049
+gemini,Redbubble,8,182,0.044
+gemini,Mpix,7,182,0.038
+gemini,Canvaspop,6,182,0.033
+gemini,Walmart Photo,6,182,0.033
+gemini,Noon,5,182,0.027
+gemini,Society6,4,182,0.022
+gemini,Costco Photo Center,2,182,0.011
+gemini,Fine Art America,1,182,0.005
+groq,Etsy,60,512,0.117
+groq,Printful,58,512,0.113
+groq,Shutterfly,42,512,0.082
+groq,Snapfish,39,512,0.076
+groq,Printify,37,512,0.072
+groq,Amazon,36,512,0.07
+groq,Zazzle,35,512,0.068
+groq,Redbubble,34,512,0.066
+groq,Society6,27,512,0.053
+groq,Vistaprint,25,512,0.049
+groq,Canvaspop,24,512,0.047
+groq,Fine Art America,19,512,0.037
+groq,Spreadshirt,19,512,0.037
+groq,Costco Photo Center,14,512,0.027
+groq,Mpix,14,512,0.027
+groq,Walmart Photo,14,512,0.027
+groq,Photobox,8,512,0.016
+groq,Noon,7,512,0.014

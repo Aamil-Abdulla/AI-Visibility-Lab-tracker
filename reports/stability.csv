@@ -1,0 +1,31 @@
+provider,question_id,answers,most_common_first_brand,agreement,changes_between_runs,possible_changes
+gemini,q1,3,Shutterfly,0.667,1,2
+gemini,q10,3,Printful,0.667,2,2
+gemini,q11,3,Printful,1.0,0,2
+gemini,q12,3,Vistaprint,1.0,0,2
+gemini,q13,3,(none from my list),1.0,0,2
+gemini,q14,3,Vistaprint,1.0,0,2
+gemini,q15,3,Etsy,0.667,1,2
+gemini,q2,3,(none from my list),0.667,1,2
+gemini,q3,3,Snapfish,0.333,2,2
+gemini,q4,3,Shutterfly,1.0,0,2
+gemini,q5,3,Vistaprint,0.333,2,2
+gemini,q6,3,Shutterfly,1.0,0,2
+gemini,q7,3,Shutterfly,0.667,1,2
+gemini,q8,3,Shutterfly,0.667,1,2
+gemini,q9,3,Etsy,1.0,0,2
+groq,q1,6,Shutterfly,0.833,2,5
+groq,q10,6,Printful,1.0,0,5
+groq,q11,6,Printful,0.667,2,5
+groq,q12,6,Vistaprint,0.833,2,5
+groq,q13,6,(none from my list),0.333,4,5
+groq,q14,6,Printful,1.0,0,5
+groq,q15,6,Printful,0.833,2,5
+groq,q2,6,Canvaspop,0.833,2,5
+groq,q3,6,Amazon,0.333,4,5
+groq,q4,6,Shutterfly,0.833,2,5
+groq,q5,6,Amazon,0.5,4,5
+groq,q6,6,Zazzle,1.0,0,5
+groq,q7,6,Etsy,0.333,5,5
+groq,q8,6,Shutterfly,1.0,0,5
+groq,q9,6,Etsy,1.0,0,5

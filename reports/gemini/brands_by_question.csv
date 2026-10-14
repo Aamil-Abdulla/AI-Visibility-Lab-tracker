@@ -1,0 +1,77 @@
+question_id,question,brand,answers_naming_brand,answers,mention_rate_pct
+q1,Where can I order custom canvas prints from my photos online?,Canvaspop,3,3,100.0
+q1,Where can I order custom canvas prints from my photos online?,Amazon,2,3,66.7
+q1,Where can I order custom canvas prints from my photos online?,Mpix,3,3,100.0
+q1,Where can I order custom canvas prints from my photos online?,Walmart Photo,3,3,100.0
+q1,Where can I order custom canvas prints from my photos online?,Shutterfly,3,3,100.0
+q1,Where can I order custom canvas prints from my photos online?,Snapfish,3,3,100.0
+q1,Where can I order custom canvas prints from my photos online?,Costco Photo Center,1,3,33.3
+q1,Where can I order custom canvas prints from my photos online?,Vistaprint,1,3,33.3
+q2,Best online shop for photo canvas prints in the UAE?,Vistaprint,1,3,33.3
+q2,Best online shop for photo canvas prints in the UAE?,Noon,1,3,33.3
+q2,Best online shop for photo canvas prints in the UAE?,Amazon,1,3,33.3
+q3,Where can I buy personalized photo gifts in the UAE?,Amazon,3,3,100.0
+q3,Where can I buy personalized photo gifts in the UAE?,Noon,3,3,100.0
+q3,Where can I buy personalized photo gifts in the UAE?,Snapfish,1,3,33.3
+q4,Best websites to make a custom photo book online?,Shutterfly,2,2,100.0
+q4,Best websites to make a custom photo book online?,Snapfish,2,2,100.0
+q4,Best websites to make a custom photo book online?,Mpix,1,2,50.0
+q5,Where can I get custom photo mugs delivered in Dubai?,Vistaprint,1,2,50.0
+q5,Where can I get custom photo mugs delivered in Dubai?,Amazon,1,2,50.0
+q5,Where can I get custom photo mugs delivered in Dubai?,Noon,1,2,50.0
+q6,Best place to order custom phone cases with my own photo?,Zazzle,2,2,100.0
+q6,Best place to order custom phone cases with my own photo?,Shutterfly,2,2,100.0
+q6,Best place to order custom phone cases with my own photo?,Snapfish,2,2,100.0
+q6,Best place to order custom phone cases with my own photo?,Etsy,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Zazzle,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Canvaspop,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Etsy,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Redbubble,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Shutterfly,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Snapfish,2,2,100.0
+q7,Best online stores for personalized wall art and posters?,Society6,1,2,50.0
+q7,Best online stores for personalized wall art and posters?,Walmart Photo,1,2,50.0
+q8,Where can I order a framed photo print online?,Costco Photo Center,1,2,50.0
+q8,Where can I order a framed photo print online?,Shutterfly,2,2,100.0
+q8,Where can I order a framed photo print online?,Snapfish,2,2,100.0
+q8,Where can I order a framed photo print online?,Mpix,2,2,100.0
+q8,Where can I order a framed photo print online?,Walmart Photo,1,2,50.0
+q8,Where can I order a framed photo print online?,Amazon,1,2,50.0
+q9,Which print-on-demand services work best with Shopify and Etsy?,Gelato,2,2,100.0
+q9,Which print-on-demand services work best with Shopify and Etsy?,Printify,2,2,100.0
+q9,Which print-on-demand services work best with Shopify and Etsy?,Printful,2,2,100.0
+q9,Which print-on-demand services work best with Shopify and Etsy?,Etsy,2,2,100.0
+q9,Which print-on-demand services work best with Shopify and Etsy?,Spreadshirt,2,2,100.0
+q10,Best print-on-demand suppliers for selling custom wall art?,Gelato,2,2,100.0
+q10,Best print-on-demand suppliers for selling custom wall art?,Fine Art America,1,2,50.0
+q10,Best print-on-demand suppliers for selling custom wall art?,Printify,2,2,100.0
+q10,Best print-on-demand suppliers for selling custom wall art?,Etsy,2,2,100.0
+q10,Best print-on-demand suppliers for selling custom wall art?,Printful,2,2,100.0
+q10,Best print-on-demand suppliers for selling custom wall art?,Amazon,1,2,50.0
+q11,Best alternatives to Printful for print on demand?,Gelato,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Printify,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Printful,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Spreadshirt,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Etsy,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Redbubble,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Amazon,2,2,100.0
+q11,Best alternatives to Printful for print on demand?,Society6,1,2,50.0
+q12,Best alternatives to Vistaprint for custom printing?,Vistaprint,2,2,100.0
+q12,Best alternatives to Vistaprint for custom printing?,Printify,1,2,50.0
+q12,Best alternatives to Vistaprint for custom printing?,Printful,1,2,50.0
+q12,Best alternatives to Vistaprint for custom printing?,Etsy,1,2,50.0
+q12,Best alternatives to Vistaprint for custom printing?,Zazzle,1,2,50.0
+q12,Best alternatives to Vistaprint for custom printing?,Redbubble,1,2,50.0
+q14,Where can I order custom tote bags and apparel with my own design?,Zazzle,1,1,100.0
+q14,Where can I order custom tote bags and apparel with my own design?,Gelato,1,1,100.0
+q14,Where can I order custom tote bags and apparel with my own design?,Printify,1,1,100.0
+q14,Where can I order custom tote bags and apparel with my own design?,Printful,1,1,100.0
+q14,Where can I order custom tote bags and apparel with my own design?,Spreadshirt,1,1,100.0
+q14,Where can I order custom tote bags and apparel with my own design?,Vistaprint,1,1,100.0
+q14,Where can I order custom tote bags and apparel with my own design?,Redbubble,1,1,100.0
+q15,Which companies offer white-label print-on-demand shops for businesses?,Gelato,1,1,100.0
+q15,Which companies offer white-label print-on-demand shops for businesses?,Printify,1,1,100.0
+q15,Which companies offer white-label print-on-demand shops for businesses?,Printful,1,1,100.0
+q15,Which companies offer white-label print-on-demand shops for businesses?,Etsy,1,1,100.0
+q15,Which companies offer white-label print-on-demand shops for businesses?,Spreadshirt,1,1,100.0
+q15,Which companies offer white-label print-on-demand shops for businesses?,Amazon,1,1,100.0

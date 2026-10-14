@@ -1,0 +1,24 @@
+{
+  "run_id": "groq-20261013-164142",
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "temperature": 0.7,
+  "max_tokens": 4000,
+  "questions": 15,
+  "runs_per_question": 3,
+  "sessions": [
+    {
+      "started_utc": "2026-10-13T12:41:42+00:00",
+      "finished_utc": "2026-10-13T12:58:40+00:00",
+      "reasoning_effort": null,
+      "order": "run-first",
+      "run_id": "groq-20261013-164142",
+      "planned": 45,
+      "saved": 45,
+      "failed": 0,
+      "skipped": 0,
+      "truncated": 10,
+      "status": "completed"
+    }
+  ]
+}

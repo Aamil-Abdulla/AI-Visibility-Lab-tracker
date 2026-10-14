@@ -1,0 +1,9 @@
+groq
+python-dotenv
+pandas
+matplotlib
+jinja2
+requests
+pydantic
+tomli; python_version < "3.11"
+google-genai

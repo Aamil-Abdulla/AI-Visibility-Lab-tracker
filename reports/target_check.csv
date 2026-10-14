@@ -1,0 +1,27 @@
+provider,brand,answers_with_brand,answers_total
+gemini,(ANY target brand),0,45
+gemini,Aldi Fotos,0,45
+gemini,Canvasdiscount,0,45
+gemini,Lidl Fotos,0,45
+gemini,MeinFoto,0,45
+gemini,MeinXXL,0,45
+gemini,MyPicture,0,45
+gemini,Orwo,0,45
+gemini,Picanova,0,45
+gemini,RTL Fotos,0,45
+gemini,merchOne,0,45
+gemini,mixpix,0,45
+gemini,sendmoments,0,45
+groq,(ANY target brand),0,90
+groq,Aldi Fotos,0,90
+groq,Canvasdiscount,0,90
+groq,Lidl Fotos,0,90
+groq,MeinFoto,0,90
+groq,MeinXXL,0,90
+groq,MyPicture,0,90
+groq,Orwo,0,90
+groq,Picanova,0,90
+groq,RTL Fotos,0,90
+groq,merchOne,0,90
+groq,mixpix,0,90
+groq,sendmoments,0,90

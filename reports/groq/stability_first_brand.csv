@@ -1,0 +1,16 @@
+question_id,answers,most_common_first_brand,times_first,distinct_first_brands
+q1,6,Shutterfly,5,2
+q2,6,Canvaspop,5,2
+q3,6,Amazon,2,4
+q4,6,Shutterfly,5,2
+q5,6,Amazon,3,4
+q6,6,Zazzle,6,1
+q7,6,Etsy,2,4
+q8,6,Shutterfly,6,1
+q9,6,Etsy,6,1
+q10,6,Printful,6,1
+q11,6,Printful,4,2
+q12,6,Vistaprint,5,2
+q13,6,(none),2,3
+q14,6,Printful,6,1
+q15,6,Printful,5,2

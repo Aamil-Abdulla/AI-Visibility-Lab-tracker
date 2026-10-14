@@ -1,0 +1,23 @@
+# Settings. Verify model names and free-tier limits on each provider's website.
+
+[run]
+default_provider = "groq"
+runs_per_question = 5
+delay_seconds = 2            # pause after every successful call
+max_retries = 5              # attempts per call
+retry_base_delay = 10        # seconds; doubles each retry (10, 20, 40)
+max_consecutive_failures = 5 # stop early if this many calls fail in a row (bad key, no internet, limit hit)
+output_file = "data/raw/answers.csv"
+manifest_dir = "data/raw/runs"
+log_file = "logs/tracker.log"
+
+[providers.groq]
+model = "llama-3.3-70b-versatile"   # VERIFY the current name. Override with GROQ_MODEL in .env
+api_key_env = "GROQ_API_KEY"
+temperature = 0.7
+max_tokens = 4000
+[providers.gemini]
+model = "SET_IN_ENV_GEMINI_MODEL"
+api_key_env = "GEMINI_API_KEY"
+temperature = 0.7
+max_tokens = 4000

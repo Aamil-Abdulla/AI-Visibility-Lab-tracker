@@ -1,0 +1,15 @@
+.env
+.venv/
+audit_private/
+data/manual/
+logs/
+__pycache__/
+.pytest_cache/
+.env
+.venv/
+ts/
+__pycache__/
+.pytest_cache/
+*.zip
+logs/
+data/raw/*.backup-*
